@@ -1,121 +1,135 @@
-# Hi 👋, I'm Hariom Kharwar
+<h1 align="center">Hi 👋, I'm Hariom Kharwar</h1>
+<h3 align="center">💻 B.Tech CSE Student | Aspiring Full Stack & Python Developer</h3>
 
-## 🚀 Aspiring Full Stack & Python Developer
-
-I'm a **B.Tech Computer Science student** passionate about software development, problem solving, and building real-world applications.
-
-I enjoy learning new technologies, improving my coding skills, and developing projects that solve practical problems. My current focus is on **Python Development, Full Stack Development, and Data Structures & Algorithms**.
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-- 🐍 Python
-- 💻 C++
-- ☕ Java (Basics)
-
-### Web Technologies
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript (Learning)
-
-### Tools & Technologies
-- 🛠 Git & GitHub
-- 📂 CSV File Handling
-- 🗄 SQLite
-- 🎨 Colorama
-- 📊 Tabulate
+<p align="center">
+  <a href="https://github.com/HariomKharwar5">
+    <img src="https://komarev.com/ghpvc/?username=HariomKharwar5&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/HariomKharwar5?tab=followers">
+    <img src="https://img.shields.io/github/followers/HariomKharwar5?style=for-the-badge&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/HariomKharwar5">
+    <img src="https://img.shields.io/github/stars/HariomKharwar5?style=for-the-badge&logo=github" alt="Stars" />
+  </a>
+</p>
 
 ---
 
-## 🛣️ Learning Roadmap
+## 🚀 About Me
 
-### ✅ Skills Acquired
-- 🐍 Python
-- 💻 C++
-- ☕ Java (Basics)
-- 📂 File Handling
-- 📦 CRUD Operations
-- 🔐 Authentication & User Management
-- 📊 Report Generation
-- 🗃 Modular Programming
-- 🛠 Git & GitHub
-- 🧩 Data Structures & Algorithms (Ongoing)
-
-### 🚀 Currently Learning
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript (ES6+)
-- 🐍 Flask
-- 🗄 SQL (MySQL & SQLite)
-- 🔗 REST APIs
-- ⚛️ React.js
-- ☁️ Web Application Deployment
-- 🧪 Software Testing
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate about Software Development & Problem Solving
+- 🌱 Currently learning **Full Stack Development, React.js & DSA**
+- 🚀 Building projects to improve my development skills
+- 🎯 Goal: **Become a Software Developer and contribute to impactful projects**
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Basics-orange?style=for-the-badge)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 📌 Featured Project
 
 ### 📚 Library Management System
-A modular Python-based Library Management System featuring:
 
-- Secure Authentication
-- Book & Student Management
-- CRUD Operations
-- Issue & Return Books
-- Fine Calculation
-- Dashboard Summary
-- CSV Database
-- Report Generation
+A professional Python-based Library Management System featuring:
 
-🔗 Repository:
-https://github.com/HariomKharwar5/Library-Management-System
+✅ Authentication & User Management  
+✅ Book & Student Management  
+✅ CRUD Operations  
+✅ Issue & Return Books  
+✅ CSV Database  
+✅ Report Generation  
+
+🔗 **Repository:**  
+👉 https://github.com/HariomKharwar5/Library-Management-System
 
 ---
 
-## 🎯 Goals for 2026
+## 🌱 Currently Learning
 
-- 🚀 Become a Full Stack Developer
+- ⚛️ React.js
+- 🌐 Full Stack Web Development
+- 🔗 REST APIs
+- 🗄️ SQL (MySQL & SQLite)
+- 📚 Data Structures & Algorithms
+
+---
+
+## 🎯 2026 Goals
+
 - 💼 Secure a Software Development Internship
-- 📚 Master Data Structures & Algorithms
-- 🌐 Build Full Stack Web Applications
-- 🤝 Contribute to Open Source Projects
-- 📈 Solve 200+ LeetCode Problems
+- 🚀 Become a Full Stack Developer
+- 🌟 Contribute to Open Source
+- 📚 Master DSA
+- 💻 Build Production-Ready Projects
+- 🧩 Solve 200+ LeetCode Problems
 
 ---
 
 ## 📊 GitHub Stats
 
-> GitHub automatically displays contribution graphs and pinned repositories below this README.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HariomKharwar5&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomKharwar5&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariomKharwar5&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🌱 Currently Working On
+## 🤝 Connect With Me
 
-- 📖 Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- 🐍 Python Projects
-- ⚛️ React.js
-- 🔗 REST APIs
+<p align="left">
+<a href="https://github.com/HariomKharwar5" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/hariom-kharwar-39ab9941b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 📫 Connect With Me
-
-- 💻 GitHub: https://github.com/HariomKharwar5
-- 💼 LinkedIn: https://www.linkedin.com/in/hariom-kharwar-39ab9941b/
-- 🧩 LeetCode: https://leetcode.com/u/hari_om_kharwar/
-
----
-
-## 💡 Quote I Believe In
-
-> **"Consistency beats intensity. Every project, every bug, and every line of code is a step toward becoming a better developer."**
+<a href="https://leetcode.com/u/hari_om_kharwar/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 💡 Quote
 
-If you like my work, feel free to explore my repositories and connect with me.
+> **"Consistency beats intensity. Every project, every bug, and every line of code is a step toward becoming a better developer." 🚀**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, don't forget to ⭐ my repositories!**
+
+</div>
