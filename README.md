@@ -24,7 +24,7 @@
 # 🛠️ Tech Stack
 
 - **Languages:** Python • C++ • Java (Basics)
-- **Frontend:** HTML • CSS • JavaScript (Learning) • React (Learning)
+- **Frontend:** HTML • CSS • JavaScript • React (Learning)
 - **Backend:** Flask (Learning)
 - **Database:** SQLite • MySQL (Learning)
 - **Tools:** Git • GitHub • VS Code • CSV • Colorama • Tabulate
@@ -53,7 +53,6 @@ A modular Python-based Library Management System with:
 # 🌱 Currently Learning
 
 - ⚛️ React.js
-- 🌐 Full Stack Web Development
 - 🔗 REST APIs
 - 🗄️ MySQL
 - 📚 Data Structures & Algorithms
