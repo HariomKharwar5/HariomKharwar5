@@ -78,7 +78,6 @@ A modular Python-based Library Management System with:
 
 # 📫 Connect With Me
 
-- **GitHub:** https://github.com/HariomKharwar5
 - **LinkedIn:** https://www.linkedin.com/in/hariom-kharwar-39ab9941b/
 - **LeetCode:** https://leetcode.com/u/hari_om_kharwar/
 
