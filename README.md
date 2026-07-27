@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariom Kharwar</h1>
 
 <h3 align="center">
-💻 B.Tech Computer Science Student | Aspiring Full Stack & Python Developer
+💻 B.Tech Computer Science Student | Aspiring Full Stack Developer
 </h3>
 
 <p align="center">
@@ -13,11 +13,9 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Passionate about Software Development & Problem Solving
-- 🌱 Currently learning **Full Stack Development, React.js & Data Structures & Algorithms**
-- 🚀 Building real-world projects with Python and Web Technologies
-- 🎯 Aspiring Software Developer
+- 🎓 B.Tech Computer Science Student.
+- 💻 Aspiring FULL STACK DEVELOPMENT 
+- 🚀 Building real-world projects with Web Technologies
 
 ---
 
@@ -25,15 +23,15 @@
 
 - **Languages:** Python • C++ • Java (Basics)
 - **Frontend:** HTML • CSS • JavaScript • React (Learning)
-- **Backend:** Flask (Learning)
-- **Database:** SQLite • MySQL (Learning)
-- **Tools:** Git • GitHub • VS Code • CSV • Colorama • Tabulate
+- **Backend:** ....
+- **Database:**  MySQL (Learning)
+- **Tools:** Git • GitHub • VS Code .
 
 ---
 
 # 📌 Featured Project
 
-## 📚 Library Management System
+## 📚 Library Management System using Python.
 
 A modular Python-based Library Management System with:
 
@@ -50,14 +48,6 @@ A modular Python-based Library Management System with:
 
 ---
 
-# 🌱 Currently Learning
-
-- ⚛️ React.js
-- 🔗 REST APIs
-- 🗄️ MySQL
-- 📚 Data Structures & Algorithms
-
----
 
 # 🎯 Goals for 2026
 
