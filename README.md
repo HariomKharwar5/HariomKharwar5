@@ -14,7 +14,7 @@
 # 🚀 About Me
 
 - 🎓 B.Tech Computer Science Student.
-- 💻 Aspiring FULL STACK DEVELOPMENT 
+- 💻 Aspiring FULL STACK DEVELOPER.
 - 🚀 Building real-world projects with Web Technologies
 
 ---
