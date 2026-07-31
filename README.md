@@ -29,8 +29,8 @@
 
 ### Languages
 - C++
+- C
 - Python
-- Java (Basics)
 
 ### Frontend
 - HTML
