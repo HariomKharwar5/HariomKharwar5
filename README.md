@@ -81,7 +81,7 @@ https://github.com/HariomKharwar5/Library-Management-System
 # 📂 Current Repositories
 
 - 🌐 Web-Development-Journey
-- 💻 DSA-Journey (Coming Soon)
+- 💻 DSA-Journey
 - 📚 Library-Management-System
 
 ---
