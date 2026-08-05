@@ -116,15 +116,15 @@ Python-based project featuring
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HariomKharwar5&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HariomKharwar5&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomKharwar5&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomKharwar5&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=HariomKharwar5&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=HariomKharwar5&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -162,8 +162,7 @@ Python-based project featuring
 
 # 💡 Quote
 
-> **"Success is built one commit, one bug fix, and one project at a time."**
-
+> **"Consistency beats intensity. Every project, every bug, and every line of code is a step toward becoming a better developer." 🚀**
 ---
 
 <p align="center">
