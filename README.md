@@ -1,30 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hariom Kharwar</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer | Full Stack Developer | DSA Enthusiast
+💻 B.Tech CSE Student | 🚀 Aspiring Full Stack Developer
 </h3>
 
 <p align="center">
-💻 B.Tech Computer Science Student <br>
-🌱 Learning MERN Stack & Mastering Data Structures and Algorithms
+Passionate about Web Development, Data Structures & Algorithms, and building real-world projects.
 </p>
 
 <p align="center">
-
-<a href="https://github.com/HariomKharwar5">
-<img src="https://komarev.com/ghpvc/?username=HariomKharwar5&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/HariomKharwar5?tab=followers">
-<img src="https://img.shields.io/github/followers/HariomKharwar5?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/HariomKharwar5">
-<img src="https://img.shields.io/github/stars/HariomKharwar5?style=for-the-badge"/>
-</a>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
-
 ---
 
 # 👨‍💻 About Me
