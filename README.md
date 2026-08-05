@@ -1,55 +1,56 @@
 <h1 align="center">Hi 👋, I'm Hariom Kharwar</h1>
 
 <h3 align="center">
-💻 B.Tech CSE Student | 🚀 Aspiring Full Stack Developer
+💻 B.Tech Computer Science Student | 🚀 Aspiring Full Stack Developer
 </h3>
 
 <p align="center">
-Passionate about Web Development, Data Structures & Algorithms, and building real-world projects.
+Building real-world projects while mastering Data Structures & Algorithms and Full Stack Development.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;DSA+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;DSA+Enthusiast;Learning+Something+New+Every+Day" />
 </p>
+
 ---
 
 # 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student
-- 💻 Passionate about Software Development
-- 🚀 Solving DSA problems daily using C++
-- 🌐 Building responsive Web Applications
-- 📚 Currently learning JavaScript, Node.js, Express.js & MongoDB
-- 🎯 Goal: Crack a Software Development Internship and become a Full Stack Engineer
+- 💻 Aspiring Full Stack Developer
+- 🚀 Solving Data Structures & Algorithms daily using **C++**
+- 🌐 Building responsive web applications with modern technologies
+- 📚 Currently learning **JavaScript, Node.js, Express.js, MongoDB**
+- 🎯 Looking for **Software Development Internship** opportunities
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 
 - C++
 - C
 - Python
 - JavaScript
 
-### 🎨 Frontend
+### Frontend
 
 - HTML5
 - CSS3
 - Responsive Design
 
-### ⚙ Backend
+### Backend
 
 - Node.js
 - Express.js
 
-### 🗄 Database
+### Database
 
 - MySQL
 - MongoDB
 
-### 🛠 Tools
+### Tools
 
 - Git
 - GitHub
@@ -57,86 +58,60 @@ Passionate about Web Development, Data Structures & Algorithms, and building rea
 
 ---
 
-# 📚 Currently Learning
-
-- 📌 Advanced Data Structures & Algorithms
-- 📌 JavaScript
-- 📌 MERN Stack
-- 📌 System Design Basics
-- 📌 Git & GitHub
-
----
-
 # 🚀 Featured Projects
 
 ## 💻 DSA Journey
 
-📌 Daily DSA practice following Abdul Bari's course.
+A well-structured repository documenting my Data Structures & Algorithms learning journey.
 
-✔ C++
+**Highlights**
 
-✔ Interview Questions
-
-✔ Clean Folder Structure
-
-✔ Daily Commits
+- Daily coding practice
+- Abdul Bari's DSA course
+- Clean folder organization
+- Interview-focused problems
 
 ---
 
 ## 🌐 Web Development Journey
 
-Learning Web Development from scratch.
+Learning Full Stack Web Development from scratch.
 
-✔ HTML
+**Tech Used**
 
-✔ CSS
-
-✔ JavaScript
-
-✔ Responsive Design
-
-✔ MERN Stack (In Progress)
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- MERN Stack (In Progress)
 
 ---
 
 ## 📚 Library Management System
 
-Python-based project featuring
+Python-based project implementing real-world library operations.
+
+**Features**
 
 - Authentication
 - CRUD Operations
-- Student Management
-- Book Management
+- Student & Book Management
 - Issue & Return Books
 - CSV Database
 
 ---
-# 📊 GitHub Stats
+
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HariomKharwar5&theme=tokyonight&hide_border=true" />
-</p>
 
----
+<img src="https://streak-stats.demolab.com?user=HariomKharwar5&theme=tokyonight&hide_border=true"/>
 
-# 🏆 GitHub Activity
-
-<p align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HariomKharwar5&theme=tokyo-night"/>
 
 </p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Complete MERN Stack
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 15+ Real World Projects
-- ✅ Secure a Software Development Internship
-- ✅ Contribute to Open Source
-- ✅ Achieve 8.5+ CGPA
 
 ---
 
@@ -149,17 +124,20 @@ Python-based project featuring
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
 > **"Consistency beats intensity. Every project, every bug, and every line of code is a step toward becoming a better developer." 🚀**
+
 ---
 
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
 <p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
+</p>
 
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
+<p align="center">
 Let's Learn • Build • Grow Together 🚀
-
 </p>
