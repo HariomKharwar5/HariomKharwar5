@@ -1,105 +1,65 @@
 <h1 align="center">Hi 👋, I'm Hariom Kharwar</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer | Full Stack Developer | DSA Enthusiast
+💻 B.Tech CSE Student | 🚀 Aspiring Full Stack Developer
 </h3>
 
 <p align="center">
-💻 B.Tech Computer Science Student <br>
-🌱 Learning MERN Stack & Mastering Data Structures and Algorithms
+Passionate about Web Development, Data Structures & Algorithms, and building real-world projects.
 </p>
 
 <p align="center">
-
-<a href="https://github.com/HariomKharwar5">
-<img src="https://komarev.com/ghpvc/?username=HariomKharwar5&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/HariomKharwar5?tab=followers">
-<img src="https://img.shields.io/github/followers/HariomKharwar5?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/HariomKharwar5">
-<img src="https://img.shields.io/github/stars/HariomKharwar5?style=for-the-badge"/>
-</a>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;DSA+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
 - 🎓 B.Tech Computer Science Student
-- 💻 Passionate about Software Development
-- 🚀 Solving DSA problems daily using C++
-- 🌐 Building responsive Web Applications
-- 📚 Currently learning JavaScript, Node.js, Express.js & MongoDB
-- 🎯 Goal: Crack a Software Development Internship and become a Full Stack Engineer
+- 🌱 Learning HTML, CSS, JavaScript, Node.js & Express
+- 💻 Solving Data Structures & Algorithms using C++
+- 🚀 Building projects every day
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### 💻 Languages
+### Languages
 
-- C++
-- C
-- Python
-- JavaScript
+C • C++ • Python • JavaScript
 
-### 🎨 Frontend
+### Frontend
 
-- HTML5
-- CSS3
-- Responsive Design
+HTML • CSS • Responsive Design
 
-### ⚙ Backend
+### Backend
 
-- Node.js
-- Express.js
+Node.js *(Learning)*
 
-### 🗄 Database
+### Database
 
-- MySQL
-- MongoDB
+MySQL *(Learning)*
 
-### 🛠 Tools
+### Tools
 
-- Git
-- GitHub
-- VS Code
+Git • GitHub • VS Code
 
 ---
 
-# 📚 Currently Learning
+## 📚 Current Learning
 
-- 📌 Advanced Data Structures & Algorithms
-- 📌 JavaScript
-- 📌 MERN Stack
-- 📌 System Design Basics
-- 📌 Git & GitHub
-
----
-
-# 🚀 Featured Projects
-
-## 💻 DSA Journey
-
-📌 Daily DSA practice following Abdul Bari's course.
-
-✔ C++
-
-✔ Interview Questions
-
-✔ Clean Folder Structure
-
-✔ Daily Commits
+- 🌐 Web Development
+- 💻 Data Structures & Algorithms
+- ⚡ Git & GitHub
+- 📂 Building Projects
 
 ---
 
-## 🌐 Web Development Journey
+## 📂 Featured Projects
 
-Learning Web Development from scratch.
+### 🌐 Web Development Journey
 
 ✔ HTML
 
@@ -109,13 +69,27 @@ Learning Web Development from scratch.
 
 ✔ Responsive Design
 
-✔ MERN Stack (In Progress)
+✔ MERN Stack *(In Progress)*
 
 ---
 
-## 📚 Library Management System
+### 💻 DSA Journey
 
-Python-based project featuring
+✔ Abdul Bari DSA
+
+✔ C++
+
+✔ Clean Folder Structure
+
+✔ Daily Commits
+
+✔ Interview Questions
+
+---
+
+### 📚 Library Management System
+
+Python Project featuring
 
 - Authentication
 - CRUD Operations
@@ -129,59 +103,34 @@ Python-based project featuring
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HariomKharwar5&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HariomKharwar5&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomKharwar5&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomKharwar5&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HariomKharwar5&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=HariomKharwar5&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Activity
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HariomKharwar5&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HariomKharwar5&theme=github-dark"/>
 </p>
 
 ---
 
-# 🎯 2026 Goals
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HariomKharwar5&theme=darkhub&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 🎯 Goals for 2026
 
 - ✅ Complete MERN Stack
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 15+ Real World Projects
-- ✅ Secure a Software Development Internship
-- ✅ Contribute to Open Source
-- ✅ Achieve 8.5+ CGPA
-
----
-
-# 🤝 Connect With Me
-
-- 💼 LinkedIn
-- 📧 Email
-- 💻 GitHub
-- 🧩 LeetCode
-
----
-
-# 💡 Quote
-
-> **"Success is built one commit, one bug fix, and one project at a time."**
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-Let's Learn • Build • Grow Together 🚀
-
-</p>
+- ✅ Solve
