@@ -120,7 +120,7 @@ Documenting my Data Structures & Algorithms learning journey using **C++**.
 
 **Course**
 
-- Language: C+
+- Language: C++
 
 ---
 
