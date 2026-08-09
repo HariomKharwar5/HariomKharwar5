@@ -32,7 +32,7 @@ Building real-world projects while mastering Data Structures & Algorithms and Fu
 - C++
 - C
 - Python
-- JavaScript
+- 
 
 ### Frontend
 
@@ -42,13 +42,13 @@ Building real-world projects while mastering Data Structures & Algorithms and Fu
 
 ### Backend
 
-- Node.js
-- Express.js
+- 
+- 
 
 ### Database
 
-- MySQL
-- MongoDB
+- MySQL (Learning)
+- 
 
 ### Tools
 
@@ -60,43 +60,72 @@ Building real-world projects while mastering Data Structures & Algorithms and Fu
 
 # 🚀 Featured Projects
 
+## 🛒 Amazon Clone — HTML & CSS
+
+A responsive Amazon-inspired e-commerce website UI built from scratch using HTML5 and CSS3.
+
+**Technologies Used**
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Media Queries
+
+**Highlights**
+
+- Amazon-style navigation bar
+- Search bar
+- Hero section
+- Product/category sections
+- Responsive layout
+- Footer section
+
+🔗 **[Live Demo](https://hariomkharwar5.github.io/amazon-clone-html-css/)**  
+🔗 **[Source Code](https://github.com/HariomKharwar5/amazon-clone-html-css)**
+
+---
+
+## 🔐 Login Page — HTML & CSS
+
+
+
+---
+
+## 🌐 Web Development Journey
+
+Documenting my Full Stack Web Development learning journey through consistent practice and hands-on projects.
+
+**Current Focus**
+
+- HTML5 & CSS3
+- Responsive Web Design
+- Flexbox & CSS Grid
+- JavaScript *(Learning)*
+- Git & GitHub
+- Full Stack Development *(In Progress)*
+
+**Learning Progress**
+
+Currently strengthening my frontend fundamentals before progressing further into JavaScript and backend development.
+
+---
+
 ## 💻 DSA Journey
 
-A well-structured repository documenting my Data Structures & Algorithms learning journey.
+Documenting my Data Structures & Algorithms learning journey using **C++**.
 
 **Highlights**
 
 - Daily coding practice
 - Clean folder organization
 - Interview-focused problems
+- Consistent problem solving
 
----
+**Course**
 
-## 🌐 Web Development Journey
-
-Learning Full Stack Web Development from scratch.
-
-**Tech Used**
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-- MERN Stack (In Progress)
-
----
-
-## 📚 Library Management System
-
-Python-based project implementing real-world library operations.
-
-**Features**
-
-- Authentication
-- CRUD Operations
-- Student & Book Management
-- Issue & Return Books
-- CSV Database
+- Language: C+
 
 ---
 
