@@ -87,11 +87,6 @@ A responsive Amazon-inspired e-commerce website UI built from scratch using HTML
 
 ---
 
-## 🔐 Login Page — HTML & CSS
-
-
-
----
 
 ## 🌐 Web Development Journey
 
