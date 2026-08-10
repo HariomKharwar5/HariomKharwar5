@@ -20,7 +20,7 @@ Building real-world projects while mastering Data Structures & Algorithms and Fu
 - 💻 Aspiring Full Stack Developer
 - 🚀 Solving Data Structures & Algorithms daily using **C++**
 - 🌐 Building responsive web applications with modern technologies
-- 📚 Currently learning **JavaScript, Node.js, Express.js, MongoDB**
+- 📚 Currently learning **JavaScript....
 - 🎯 Looking for **Software Development Internship** opportunities
 
 ---
