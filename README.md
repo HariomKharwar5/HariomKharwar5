@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hariom Kharwar </h1>
 
-<h3 align="center">
+<h3 align="center"> 
 💻 B.Tech Computer Science Student | 🚀 Aspiring Full Stack Developer
 </h3>
 
