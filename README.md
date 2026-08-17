@@ -39,6 +39,7 @@ Building real-world projects while mastering Data Structures & Algorithms and Fu
 - HTML5
 - CSS3
 - Responsive Design
+- Java Script 
 
 ### Backend
 
@@ -47,7 +48,7 @@ Building real-world projects while mastering Data Structures & Algorithms and Fu
 
 ### Database
 
-- MySQL (Learning)
+- PostgreSQL
 - 
 
 ### Tools
