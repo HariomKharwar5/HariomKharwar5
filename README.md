@@ -4,7 +4,7 @@
 💻 B.Tech Computer Science Student | 🚀 Aspiring Full Stack Developer
 </h3>
 
-<p align="center">
+<p align="center"> 
 Building real-world projects while mastering Data Structures & Algorithms and Full Stack Development.
 </p>
 
