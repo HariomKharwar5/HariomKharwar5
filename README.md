@@ -48,7 +48,7 @@ Building real-world projects while mastering Data Structures & Algorithms and Fu
 
 ### Database
 
-- PostgreSQL
+- PostgreSQL/MySQL 
 - 
 
 ### Tools
