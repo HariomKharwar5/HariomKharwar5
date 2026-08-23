@@ -18,7 +18,7 @@ Building practical projects while strengthening my Full Stack Development and Da
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Aspiring Full Stack Developer
-- 🚀 Practicing Data Structures & Algorithms using **C++**
+- 🚀 Practicing Data Structures & Algorithms using **C++** 
 - 🌐 Building responsive web applications
 - 📚 Currently learning **JavaScript and Full Stack Development**
 - 🎯 Looking for **Software Development Internship** opportunities
