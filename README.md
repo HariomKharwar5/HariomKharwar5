@@ -135,4 +135,5 @@ I regularly practice Data Structures & Algorithms using C++ and solve problems o
 📈 GitHub Activity
 
 <p align="center">  
-<img src="https://streak-stats.demolab.com?user=HariomKharwar5&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=HariomKharwar5&theme=tokyonight&hide_border=true"/>  
+ 
