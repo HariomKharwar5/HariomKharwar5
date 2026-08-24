@@ -47,8 +47,7 @@ Responsive e-commerce website built using HTML5 and CSS3.
 
 Tech: HTML5 • CSS3 • Flexbox • Grid • Responsive Design
 
-🔗 "Live Demo" (https://hariomkharwar5.github.io/amazon-clone-html-css/) •
-💻 "Source Code" (https://github.com/HariomKharwar5/amazon-clone-html-css)
+<sub>🔗 <a href="https://hariomkharwar5.github.io/amazon-clone-html-css/">Live Demo</a>  •  💻 <a href="https://github.com/HariomKharwar5/amazon-clone-html-css">Source Code</a></sub>
 
 ---
 
@@ -58,8 +57,7 @@ Clean and responsive login interface built using HTML5 and CSS3.
 
 Tech: HTML5 • CSS3 • Flexbox • Responsive Design
 
-🔗 "Live Demo" (https://hariomkharwar5.github.io/Login-Page/) •
-💻 "Source Code" (https://github.com/HariomKharwar5/Login-Page)
+<sub>🔗 <a href="https://hariomkharwar5.github.io/Login-Page/">Live Demo</a>  •  💻 <a href="https://github.com/HariomKharwar5/Login-Page">Source Code</a></sub>
 
 ---
 
@@ -83,16 +81,9 @@ Advanced JavaScript → React → Backend → APIs → Full Stack
 
 Practicing Data Structures & Algorithms using C++ and solving problems on LeetCode to improve my problem-solving and programming skills.
 
-🧠 "View my LeetCode Profile" (https://leetcode.com/u/hari_om_kharwar/)
+🧠 <a href="https://leetcode.com/u/hari_om_kharwar/">View my LeetCode Profile</a>
 
 ---
-
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HariomKharwar5&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomKharwar5&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>---
 
 📫 Connect With Me
 
