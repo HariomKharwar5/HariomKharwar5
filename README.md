@@ -1,139 +1,188 @@
-<h1 align="center">Hi 👋, I'm Hariom Kharwar</h1>  <h3 align="center">  
-💻 B.Tech Computer Science Student | 🚀 Aspiring Full Stack Developer  
-</h3>  <p align="center">  
-Building practical projects while strengthening my Full Stack Development and Data Structures & Algorithms skills.  
-</p>  <p align="center">  
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Aspiring+Full+Stack+Developer;DSA+Enthusiast;Learning+Something+New+Every+Day" />  
-</p>  
----
+<h1 align="center">Hi 👋, I'm Hariom Kharwar</h1><h3 align="center">
+💻 B.Tech Computer Science Student | 🚀 Aspiring Full Stack Developer
+</h3><p align="center">
+I build practical web projects while strengthening my problem-solving skills through Data Structures & Algorithms.
+</p><p align="center">
+  <a href="https://hariomkharwar5.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/hari_om_kharwar/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/HariomKharwar5">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>---
 
 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student
-
-💻 Aspiring Full Stack Developer
-
-🚀 Practicing Data Structures & Algorithms using C++
-
-🌐 Building responsive web applications
-
-📚 Currently learning JavaScript and Full Stack Development
-
-🎯 Looking for Software Development Internship opportunities
-
-
+- 🎓 B.Tech Computer Science Student
+- 🚀 Aspiring Full Stack Developer
+- 🌐 Currently building and improving web development projects
+- 📚 Currently learning JavaScript and Full Stack Development
+- 🧠 Practicing Data Structures & Algorithms using C++
+- 💡 Interested in building practical and user-friendly applications
+- 🎯 Preparing for Software Development Internship opportunities
 
 ---
 
-🌐 My Portfolio
+🛠️ Tech Stack
 
-<p>  
-Explore my projects, skills, LeetCode progress, and development journey.  
-</p>  <p>  
-<a href="https://hariomkharwar5.github.io/portfolio/">  
-  <strong>👉 View My Portfolio</strong>  
-</a>  
-</p>  
----
+💻 Programming Languages
 
-🛠️ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python" />
+</p>🌐 Web Development
 
-Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>🗄️ Databases
 
-C++
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>🧰 Tools
 
-C
-
-Python
-
-
-Frontend
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Responsive Web Design
-
-
-Database
-
-MySQL
-
-PostgreSQL
-
-
-Tools
-
-Git
-
-GitHub
-
-VS Code
-
-
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>---
 
 🚀 Featured Projects
 
 🛒 Amazon-Inspired E-Commerce Website
 
-A responsive Amazon-inspired e-commerce website built from scratch using HTML and CSS.
+A responsive Amazon-inspired e-commerce website built from scratch to strengthen my frontend development skills.
 
-Technologies
+What I practiced:
 
-HTML5
+- Semantic HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Media Queries
+- Complex webpage layouts
 
-CSS3
-
-Flexbox
-
-CSS Grid
-
-Responsive Design
-
-Media Queries
-
-
-🔗 Live Demo
-🔗 Source Code
-
-
----
+<p>
+  <a href="https://hariomkharwar5.github.io/amazon-clone-html-css/">
+    🔗 <strong>Live Demo</strong>
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/HariomKharwar5/amazon-clone-html-css">
+    💻 <strong>Source Code</strong>
+  </a>
+</p>---
 
 🔐 Responsive Login Page
 
-A clean and modern responsive login page built using HTML and CSS with a responsive user interface.
+A clean and responsive login page created to practice modern webpage layouts, form elements, and responsive styling.
 
-Technologies
+What I practiced:
 
-HTML5
+- HTML5 Forms
+- CSS3
+- Responsive Layout
+- Flexbox
+- UI Styling
 
-CSS3
+<p>
+  <a href="https://hariomkharwar5.github.io/Login-Page/">
+    🔗 <strong>Live Demo</strong>
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/HariomKharwar5/Login-Page">
+    💻 <strong>Source Code</strong>
+  </a>
+</p>---
 
-Responsive Design
+🌐 My Portfolio
 
+My portfolio brings together my projects, skills, learning journey, and development work.
 
-🔗 Live Demo
-🔗 Source Code
+<p align="center">
+  <a href="https://hariomkharwar5.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-Visit%20Now-2ea44f?style=for-the-badge" />
+  </a>
+</p>---
 
+🧠 Problem Solving & DSA
 
----
+I practice Data Structures & Algorithms using C++ to strengthen my problem-solving, logical thinking, and programming fundamentals.
 
-🧠 Problem Solving
+I'm also solving problems on LeetCode as part of my preparation for software development opportunities.
 
-I regularly practice Data Structures & Algorithms using C++ and solve problems on LeetCode to improve my problem-solving skills.
+<p align="center">
+  <a href="https://leetcode.com/u/hari_om_kharwar/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>---
 
-🔗 View My LeetCode Profile
+🌱 My Development Journey
 
+✅ Completed
+
+- HTML5
+- CSS3
+- Responsive Web Design
+- Amazon-Inspired E-Commerce Project
+- Responsive Login Page
+
+🔄 Currently Learning
+
+- JavaScript
+- DOM Manipulation
+- Events & Interactive Web Development
+- Modern JavaScript Concepts
+
+🎯 Next Goals
+
+- Advanced JavaScript
+- React.js
+- Backend Development
+- REST APIs
+- Database Integration
+- Full Stack Applications
+- Real-world Projects
 
 ---
 
 📈 GitHub Activity
 
-<p align="center">  
-<img src="https://streak-stats.demolab.com?user=HariomKharwar5&theme=tokyonight&hide_border=true"/>  
- 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HariomKharwar5&theme=tokyo-night&hide_border=true" />
+</p>---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HariomKharwar5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomKharwar5&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>---
+
+🎯 Current Goals
+
+- 🚀 Become a skilled Full Stack Developer
+- 🧠 Strengthen Data Structures & Algorithms
+- 💻 Build real-world web applications
+- 📚 Learn modern development technologies
+- 🐙 Maintain a consistent GitHub development journey
+- 🎯 Secure a Software Development Internship
+
+---
+
+📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/HariomKharwar5">
+    <img src="https://img.shields.io/badge/GitHub-HariomKharwar5-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/hari_om_kharwar/">
+    <img src="https://img.shields.io/badge/LeetCode-hari__om__kharwar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://hariomkharwar5.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>---
+
+<p align="center">
+  <i>🚀 Learning. Building. Improving. Every day.</i>
+</p>
